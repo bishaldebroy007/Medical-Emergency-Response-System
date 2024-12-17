@@ -1,0 +1,34 @@
+2.bolod domain admin pass
+id-admin
+pass-cse301
+
+or
+id-tzz
+pass:tzz123
+
+
+main page id pass 
+
+Blood Donation
+
+id-admin
+pass-cse301
+
+or
+id-tzz
+pass:tzz123
+
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Doctor Login Details**
+
+ID      : YDS7L
+Password: password
+
+
